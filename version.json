@@ -1,1 +1,6 @@
-nob
+{
+  "version": "0.1.1",
+  "apkUrl": "https://github.com/1328673/PartKnightRelease/releases/download/v0.1.1/PartKnight_v0.1.1.apk",
+  "updateNotes": "1. 无更新内容，仅测试\n2. 一行一条",
+  "forceUpdate": false
+}
