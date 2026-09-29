@@ -1,6 +1,6 @@
 {
-  "version": "0.1.1",
-  "apkUrl": "https://github.com/1328673/PartKnightRelease/releases/download/v0.1.1/PartKnight_v0.1.1.apk",
-  "updateNotes": "1. 摇杆加大\n2. 角色自动锁定最近敌人\n3. 新增切换目标按钮和背包按钮",
+  "version": "0.1.2",
+  "apkUrl": "https://github.com/1328673/PartKnightRelease/releases/download/v0.1.2/PartKnight_v0.1.2.apk",
+  "updateNotes": "1. 优化手感\n2. 增加动画\n3. 增加地图\n4. 修复商店bug",
   "forceUpdate": false
 }
