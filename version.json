@@ -1,6 +1,6 @@
 {
-  "version": "0.1.2",
-  "apkUrl": "https://github.com/1328673/PartKnightRelease/releases/download/v0.1.2/PartKnight_v0.1.2.apk",
-  "updateNotes": "1. 优化手感\n2. 增加动画\n3. 增加地图\n4. 修复商店bug",
+  "version": "0.1.3",
+  "apkUrl": "https://github.com/1328673/PartKnightRelease/releases/download/v0.1.3/PartKnight_v0.1.3.apk",
+  "updateNotes": "1. 更新了模型\n2. 优化了手感\n3. 改成地牢地图\n4. 新增大厅",
   "forceUpdate": false
 }
